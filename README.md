@@ -4,7 +4,7 @@ I'm a Software Engineer specialized in mobile development and full-stack web app
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jkamiphi&label=Profile%20views&color=0e75b6&style=flat" alt="jkamiphi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkamiphi&margin-w=15" alt="jkamiphi" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkamiphi&margin-w=15&title=Commits,Experience" alt="jkamiphi" /></a> </p>
 <!--
 **jkamiphi/jkamiphi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
